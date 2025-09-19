@@ -1,5 +1,17 @@
 ## Variaveis
 
+### Tipos de variaveis
+
+```
+int, int8, int16, int32, int64, uint, uint8, uint16, uint32, uint64, float32, float64, complex64, complex128
+
+bool
+
+string
+
+Arrays, slices, maps, structs, pointers, functions, interfaces, channels.
+```
+
 ### Variaveis publicas
 
 - em Go, as variaveis publicas comecam com letra Maiuscula, diferente de outras linguagens onde usamos uma palavra reservada para fazer essa distincao
